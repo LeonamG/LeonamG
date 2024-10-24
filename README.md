@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente Trabalho Como QA Voluntario no Pipoca Ágil **Time Laranja - GlicDay**
 
-- 🌱 Atualmente estou em uma Residência em Software e Programa de Testes e Qualidade de Software (Júlio de Lima) onde estou aprendendo usar algumas ferramentas como **JUnit, RestAssured,Web Drive, Appium, TestComplete, SQL**
+- 🌱 Atualmente estou cursando uma Residência em Software e ao mesmo tempo o Programa de Testes e Qualidade de Software (Júlio de Lima) onde estou aprendendo usar algumas ferramentas como **JUnit, RestAssured,Web Drive, Appium, TestComplete, SQL**
 
 - 💬 Me pergunte sobre **Testes, Casos de testes, Cenários de Testes, Testes baseados em Riscos, Shift-Left, Testes Exploratórios**
 
