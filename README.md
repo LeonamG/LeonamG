@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente Trabalho Como QA na **Sudoeste Informatica** e QA Voluntario no Pipoca Ágil **Time 8**
   
-- 🌱 Atualmente estou cursando estou aprimorando meus conhecimentos em testes de software
+- 🌱 Atualmente estou aprimorando meus conhecimentos em testes de software
 
 - 💬 Me pergunte sobre **Testes, Casos de testes, Cenários de Testes, Testes baseados em Riscos, Shift-Left, Testes Exploratórios**
 
