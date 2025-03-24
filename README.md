@@ -1,9 +1,9 @@
 <h1 align="center">Olá Eu sou Leonam Galvão</h1>
 <h3 align="center">Apaixonado por Qualidade de Software | Testes Manuais e Automatizados</h3>
 
-- 🔭 Atualmente Trabalho Como QA Voluntario no Pipoca Ágil **Time Laranja - GlicDay**
-
-- 🌱 Atualmente estou cursando uma Residência em Software e ao mesmo tempo o Programa de Testes e Qualidade de Software (Júlio de Lima) onde estou aprendendo usar algumas ferramentas como **JUnit, RestAssured,Web Drive, Appium, TestComplete, SQL**
+- 🔭 Atualmente Trabalho Como QA na **Sudoeste Informatica** e QA Voluntario no Pipoca Ágil **Time 8**
+  
+- 🌱 Atualmente estou cursando estou aprimorando meus conhecimentos em testes de software
 
 - 💬 Me pergunte sobre **Testes, Casos de testes, Cenários de Testes, Testes baseados em Riscos, Shift-Left, Testes Exploratórios**
 
