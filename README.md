@@ -7,7 +7,7 @@
 
 - 💬 Me pergunte sobre **Testes, Casos de testes, Cenários de Testes, Testes baseados em Riscos, Shift-Left, Testes Exploratórios**
 
-- 📫 Você me acha através do email **galvao_leo@hotmail.com**
+- 📫 Você me acha através do email **galvao_leo@hotmail.com** ou **qa.teste.leonam@gmail.com**
 
 - 📄 Quer saber sobre minhas experiencias ? [https://www.linkedin.com/in/leonamg/](https://www.linkedin.com/in/leonamg/)
 
