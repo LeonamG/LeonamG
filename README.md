@@ -1,7 +1,7 @@
 <h1 align="center">Olá Eu sou Leonam Galvão</h1>
 <h3 align="center">Apaixonado por Qualidade de Software | Testes Manuais e Automatizados</h3>
 
-- 🔭 Atuei como Analista de Testes Jr (QA) na **Sudoeste Informática e Consultoria LTDA** e sou QA voluntário no **Pipoca Ágil** **Time 8**
+- 🔭 Atuei como Analista de Testes Jr (QA) na **Sudoeste Informática e Consultoria LTDA** e como QA voluntário no **Pipoca Ágil** **Time 8**
   
 - 🌱 Atualmente estou aprimorando meus conhecimentos em testes de software
 
